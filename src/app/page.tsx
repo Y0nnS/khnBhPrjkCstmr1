@@ -45,7 +45,7 @@ const CertificateDisplayPage = () => {
                 </div>
                 <div>
                   <h2 className="text-md sm:text-xl font-bold text-gray-800">DATA SERTIFIKAT PRODUK</h2>
-                  <p className="text-sm text-gray-500">Nomor: 114/11.01.04/23/LSPro/IX/2023</p>
+                  <p className="text-sm text-gray-500">Nomor: 114/11.01.04/23/LsPro/I/2024</p>
                 </div>
               </div>
 
@@ -54,15 +54,15 @@ const CertificateDisplayPage = () => {
                   <InfoCard label="Nama LSPro" value="BSPJI Surabaya" />
                   <InfoCard label="Status Sertifikasi" value="SERTIFIKASI" badgeColor="bg-green-100 text-green-800" />
                   <InfoCard label="Tipe Sertifikasi" value="5" />
-                  <InfoCard label="Nomor dan Judul" value="SNI 02-3776-2005 (Pupuk fosfa alam untuk pertama)" />
+                  <InfoCard label="Nomor dan Judul" value="SNI 02-2804-2005 (Pupuk fosfa alam untuk pertama)" />
                 </div>
                 <div className="space-y-4">
-                  <InfoCard label="Tanggal Terbit" value="01 Sep 2023" />
-                  <InfoCard label="Tanggal Berakhir" value="31 Aug 2027" />
+                  <InfoCard label="Tanggal Terbit" value="22 Januari 2024" />
+                  <InfoCard label="Tanggal Berakhir" value="22 Januari 2028" />
                   <InfoCard label="Nama Perusahaan" value="PT. DWI JAYA EKAPRIMA" />
                   <InfoCard 
                     label="Alamat Perusahaan" 
-                    value="Jl. Cilik Riwut Km. 1,2, Kab. Kotawaringin Timur, Prov. Kalimantan Tengah" 
+                    value="Jl. Raya Belitung No.6 GKB Kabomas - Gresik" 
                   />
                   <InfoCard label="Negara Perusahaan" value="Indonesia" />
                 </div>
@@ -103,14 +103,14 @@ const CertificateDisplayPage = () => {
                   <InfoCard label="Nama" value="PT. DWI JAYA EKAPRIMA" />
                   <InfoCard 
                     label="Alamat Pabrik" 
-                    value="Jl. Raya Daendels Km. 26, Desa/Kel. Golokan, Kec. Sidayu Kab. Gresik, Prov. Jawa Timur" 
+                    value="Jl. Raya Daendeles, Desa Banyu Tengah, Panceng - Gresik" 
                   />
                   <InfoCard label="Negara Pabrik" value="Indonesia" />
                   <InfoCard label="Provinsi Pabrik" value="Jawa Timur" />
                 </div>
                 <div className="space-y-4">
-                  <InfoCard label="Merek" value="FORESTAN" />
-                  <InfoCard label="Tipe/Jenis Produk" value="Mutu C / Granul" />
+                  <InfoCard label="Merek" value="D 52" />
+                  <InfoCard label="Tipe/Jenis Produk" value="Pupuk Dolomit" />
                   <InfoCard label="Nama Lab Uji" value="Balai Riset dan Standardisasi Industri Surabaya" />
                   
                   <div className="bg-gray-50 p-4 rounded-lg">
@@ -127,8 +127,8 @@ const CertificateDisplayPage = () => {
                         <tbody className="bg-white divide-y divide-gray-200">
                           <tr>
                             <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-900">1</td>
-                            <td className="px-4 py-2 text-sm text-gray-900">B/04852/BSPJ-Surabaya/MS.08.01.01/VIII/2023</td>
-                            <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-900">10 Aug 2023</td>
+                            <td className="px-4 py-2 text-sm text-gray-900">Surabaya/MS.08.01.01/VIII/2024</td>
+                            <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-900">22 Januari 2024</td>
                           </tr>
                         </tbody>
                       </table>
