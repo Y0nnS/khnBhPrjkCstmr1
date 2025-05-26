@@ -45,7 +45,7 @@ const CertificateDisplayPage = () => {
                 </div>
                 <div>
                   <h2 className="text-xl font-bold text-gray-800">DATA SERTIFIKAT PRODUK</h2>
-                  <p className="text-sm text-gray-500">Nomor: 114/11.01.04/23/LSPro/IX/20?</p>
+                  <p className="text-sm text-gray-500">Nomor: 114/11.01.04/23/LSPro/IX/2023</p>
                 </div>
               </div>
 
@@ -77,13 +77,6 @@ const CertificateDisplayPage = () => {
                   </svg>
                   <span className="text-sm text-gray-500">Data diperbarui terakhir: 26 Mei 2025</span>
                 </div>
-                <a 
-                  href="https://ustan.kemenperin.go.id" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-sm font-medium text-indigo-600 hover:text-indigo-500">
-                  ustan.kemenperin.go.id
-                </a>
               </div>
             </div>
           </div>
@@ -153,14 +146,6 @@ const CertificateDisplayPage = () => {
                   </svg>
                   <span className="text-sm text-gray-500">Data diperbarui terakhir: 26 Mei 2025</span>
                 </div>
-                <a 
-                  href="https://ustan.kemenperin.go.id" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-sm font-medium text-indigo-600 hover:text-indigo-500"
-                >
-                  ustan.kemenperin.go.id
-                </a>
               </div>
             </div>
           </div>
