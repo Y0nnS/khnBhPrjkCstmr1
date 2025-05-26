@@ -44,7 +44,7 @@ const CertificateDisplayPage = () => {
                   </svg>
                 </div>
                 <div>
-                  <h2 className="text-xl font-bold text-gray-800">DATA SERTIFIKAT PRODUK</h2>
+                  <h2 className="text-md sm:text-xl font-bold text-gray-800">DATA SERTIFIKAT PRODUK</h2>
                   <p className="text-sm text-gray-500">Nomor: 114/11.01.04/23/LSPro/IX/2023</p>
                 </div>
               </div>
@@ -93,7 +93,7 @@ const CertificateDisplayPage = () => {
                   </svg>
                 </div>
                 <div>
-                  <h2 className="text-xl font-bold text-gray-800">DATA PABRIK/MANUFACTURER</h2>
+                  <h2 className="text-md sm:text-xl font-bold text-gray-800">DATA PABRIK/MANUFACTURER</h2>
                   <p className="text-sm text-gray-500">Provinsi: Kalimantan Tengah & Jawa Timur</p>
                 </div>
               </div>
