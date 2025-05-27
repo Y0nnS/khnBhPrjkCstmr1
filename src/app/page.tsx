@@ -54,7 +54,7 @@ const CertificateDisplayPage = () => {
                   <InfoCard label="Nama LSPro" value="BSPJI Surabaya" />
                   <InfoCard label="Status Sertifikasi" value="SERTIFIKASI" badgeColor="bg-green-100 text-green-800" />
                   <InfoCard label="Tipe Sertifikasi" value="5" />
-                  <InfoCard label="Nomor dan Judul" value="SNI 02-2804-2005 (Pupuk fosfa alam untuk pertama)" />
+                  <InfoCard label="Nomor dan Judul" value="SNI 02-2804-2005 (Pupuk Dolomit)" />
                 </div>
                 <div className="space-y-4">
                   <InfoCard label="Tanggal Terbit" value="22 Januari 2024" />
