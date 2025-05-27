@@ -57,8 +57,8 @@ const CertificateDisplayPage = () => {
                   <InfoCard label="Nomor dan Judul" value="SNI 02-2804-2005 (Pupuk Dolomit)" />
                 </div>
                 <div className="space-y-4">
-                  <InfoCard label="Tanggal Terbit" value="22 Januari 2024" />
-                  <InfoCard label="Tanggal Berakhir" value="22 Januari 2028" />
+                  <InfoCard label="Tanggal Terbit" value="1 September 2024" />
+                  <InfoCard label="Tanggal Berakhir" value="31 Agustus 2028" />
                   <InfoCard label="Nama Perusahaan" value="PT. DWI JAYA EKAPRIMA" />
                   <InfoCard 
                     label="Alamat Perusahaan" 
