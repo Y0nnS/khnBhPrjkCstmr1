@@ -127,8 +127,8 @@ const CertificateDisplayPage = () => {
                         <tbody className="bg-white divide-y divide-gray-200">
                           <tr>
                             <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-900">1</td>
-                            <td className="px-4 py-2 text-sm text-gray-900">Surabaya/MS.08.01.01/VIII/2024</td>
-                            <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-900">22 Januari 2024</td>
+                            <td className="px-4 py-2 text-sm text-gray-900">Surabaya/MS.08.01.01/IX/2024</td>
+                            <td className="px-4 py-2 whitespace-nowrap text-sm text-gray-900">1 September 2024</td>
                           </tr>
                         </tbody>
                       </table>
@@ -144,7 +144,7 @@ const CertificateDisplayPage = () => {
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-gray-400 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <span className="text-sm text-gray-500">Data diperbarui terakhir: 26 Mei 2025</span>
+                  <span className="text-sm text-gray-500">Data diperbarui terakhir: 27 Mei 2025</span>
                 </div>
               </div>
             </div>
